@@ -13,7 +13,7 @@
     <table>
 	<tr>
 		<td>
-			<img height="300px" src="https://github-readme-stats.vercel.app/api?username=mLorente13&show_icons=true&theme=github_dark" />
+			<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mLorente13" />
 		</td>
 		<td>
 			<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mLorente13&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
