@@ -13,10 +13,7 @@
     <table>
 	<tr>
 		<td>
-			<img height=300px align="center" src="https://github-readme-stats.vercel.app/api?username=mLorente13&show_icons=true&theme=github_dark&layout=compact" />
-		</td>
-		<td>
-			<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mLorente13&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
+			[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 		</td>
 	</tr>
 </table>
