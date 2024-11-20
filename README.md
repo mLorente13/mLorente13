@@ -13,7 +13,7 @@
     <table>
 	<tr>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=mLorente13" />
+			<img src="https://github-readme-stats.vercel.app/api?username=mLorente13&theme=onedark" />
 		</td>
 	</tr>
 </table>
